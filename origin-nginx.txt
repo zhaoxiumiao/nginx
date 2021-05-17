@@ -1,0 +1,5 @@
+激活node服务
+echo ". ~/nvm/nvm.sh" >> /etc/profile
+source /etc/profile
+启动nginx
+cd /etc/nginx
